@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Геннадий Петров](https://up.htmlacademy.ru/javascript/14/user/231350).
-* Наставник: `Александр Малинов`.
+* Наставник: [Александр Малинов](https://htmlacademy.ru/profile/id40204).
 
 ---
 
